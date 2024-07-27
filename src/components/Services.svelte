@@ -67,7 +67,7 @@
           </span>
           <div class="ms-5 sm:ms-8">
             <h3 class="text-base sm:text-lg font-semibold text-gray-900 dark:text-neutral-900">
-              AHospitality Experts
+              Hospitality Experts
             </h3>
             <p class="mt-1 text-gray-900 dark:text-neutral-900">
               We understand the Unique needs and challanges of the hospitality industry, and we tailor our services to meet them.
