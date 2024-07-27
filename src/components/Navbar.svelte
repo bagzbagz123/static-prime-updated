@@ -36,7 +36,7 @@
   
         <div class="flex items-center">
           <a class="py-2 px-3 inline-flex justify-center items-center gap-2 rounded-lg font-medium text-black hover:bg-black/10 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 transition-all text-sm" href="#">
-            <img class='w-10' src="https://i.ibb.co/PDQ0ghf/2024-07-14-03-35-14.jpg" alt="">
+            <img class='w-10' src="static/primecapturelogo.png" alt="">
           </a>
           <span class="inline-block border-e border-black/30 w-px h-5 mx-2"></span>
           <a class="py-2 px-3 inline-flex justify-center items-center gap-2 rounded-lg font-medium text-black hover:bg-black/10 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 transition-all text-sm" href="#">
