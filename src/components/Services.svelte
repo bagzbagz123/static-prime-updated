@@ -67,10 +67,10 @@
           </span>
           <div class="ms-5 sm:ms-8">
             <h3 class="text-base sm:text-lg font-semibold text-gray-900 dark:text-neutral-900">
-              Affordable Solutions
+              AHospitality Experts
             </h3>
             <p class="mt-1 text-gray-900 dark:text-neutral-900">
-              We offer cost-effective options to beautify your restaurant with art photography and framing.
+              We understand the Unique needs and challanges of the hospitality industry, and we tailor our services to meet them.
             </p>
           </div>
         </div>
@@ -89,7 +89,7 @@
       <!-- Grid -->
       <div class="grid grid-cols-12 gap-2 sm:gap-6 items-center lg:-translate-x-10">
         <div class="col-span-3">
-          <img class="rounded-xl" src="https://media.timeout.com/images/105976061/750/562/image.jpg" alt="Image Description">
+          <img class="rounded-xl" src="" alt="Image Description">
         </div>
         <!-- End Col -->
 
@@ -115,7 +115,6 @@
             Elevate Your Space with Artful Photography.
           </h2>
           <p class="text-gray-500 dark:text-neutral-500">
-            Use our tools to explore your ideas and make your vision come true. Then share your work easily.
           </p>
         </div>
         <!-- End Title -->
