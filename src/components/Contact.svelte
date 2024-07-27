@@ -28,7 +28,7 @@
                 </p>
                 <address class="mt-1 text-black not-italic dark:text-black">
                    <br>
-                  Glasgow G2 4JR
+                  240 N Miami Ave
                 </address>
               </div>
             </div>
